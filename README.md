@@ -45,7 +45,7 @@ I'm a **front-end developer** focused on building fast, scalable, and user-frien
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amin-sheikhy-dev&show_icons=true&theme=radical&hide=contribs,prs" height="180" />
@@ -54,13 +54,15 @@ I'm a **front-end developer** focused on building fast, scalable, and user-frien
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amin-sheikhy-dev&theme=radical" />
-</div>
+</div> -->
 
 ---
 
 ## 🤝 Connect with Me
 
 <div align="center">
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-sheikhy-36a611413) -->
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/aminSH_Dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sheikhy.dev@gmail.com)
