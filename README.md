@@ -36,16 +36,6 @@ I'm a **front-end developer** focused on building fast, scalable, and user-frien
 
 ---
 
-## 🚀 Featured Projects
-
-| Project       | Description                                                                                                                                                                                             | Links                                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Portfolio** | My personal portfolio website showcasing my skills, projects, and experience as a front-end developer. Built with modern tools and fully responsive.                                                    | [Demo](https://amin-sh-portfolio.vercel.app/) • [-](#)                                            |
-| **Paradise**  | Mountain suite reservation web app. Features: Persian calendar, fake auth with Server Actions, Zustand persist to store reservations in localStorage, custom image slider, dark mode, fully responsive. | [Demo](https://lost-paradise.vercel.app/) • [Repo](https://github.com/amin-sheikhy-dev/paradise)  |
-| **Foodies**   | Global recipe sharing platform using TheMealDB API. Search by ingredients, save favorites without login (Zustand + persist), share recipe form with Server Actions, glassmorphism effects.              | [Demo](https://next-foodies-nu.vercel.app/) • [Repo](https://github.com/amin-sheikhy-dev/foodies) |
-
----
-
 <!-- ## 📊 GitHub Stats
 
 <div align="center">
